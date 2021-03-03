@@ -18,7 +18,7 @@ c++을 이용하여 CPU를 기반으로 작동하는 Ray tracer를 구현하였�
 - Import obj file
 - Uniform cell subdivision
 
-![image-20210303120702423](photo\image-20210303120702423.png)
+![explain](photo\explain.png)
 
 위와 같은 사진을 얻는 데에 1271초(약 21분) 이 소모된다.
 
@@ -40,6 +40,8 @@ c++을 이용하여 CPU를 기반으로 작동하는 Ray tracer를 구현하였�
 - vec3 getnormal: object 가 주어진 위치에서 갖고 있는 normal vector를 계산한다.
 - vec3 gettexture: object를 주어진 이미지로 mapping하고 주어진 위치에서 갖는 pixel color를 계산한다.
 - bool cellintersect: object가 주어진 voxel과 intersect가 있는지 계산한다. Triangle과 voxel의 intersection을 계산할 때는 SAT(Separating Axis Theorem)을 이용하였다.
+
+
 
 
 
@@ -87,9 +89,13 @@ findobject 함수에서는 입력 받은 ray가 cell에 들어있는 object와 i
 
 
 
-<img src="photo\4.png" alt="4" style="zoom: 33%;" />
+![photo](photo\4.png){: width="50%" height="50%"}
 
-<img src="photo\5.png" alt="5" style="zoom: 50%;" />
 
-<img src="C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\ray_tracer\photo\2373.png" alt="2373" style="zoom: 50%;" />
+
+![photo](photo\5.png){: width="50%" height="50%"}
+
+
+
+![photo](photo\night.png){: width="50%" height="50%"}
 
