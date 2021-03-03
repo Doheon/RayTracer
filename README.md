@@ -1,5 +1,7 @@
 # RayTracer
-Own CPU ray tracer using c++
+Own CPU ray tracer using c++  
+
+ open the **ray_tracer.sln** and run project. 
 
 
 
