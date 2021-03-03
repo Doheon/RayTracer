@@ -85,13 +85,13 @@ findobject 함수에서는 입력 받은 ray가 cell에 들어있는 object와 i
 
 
 
-![photo](/photo/4.png){: width="50%" height="50%"}
+<img src="/photo/4.png" width="50%" height="50%">
 
 
 
-![photo](/photo/5.png){: width="50%" height="50%"}
+<img src="/photo/5.png" width="50%" height="50%">
 
 
 
-![photo](/photo/night.png){: width="50%" height="50%"}
+<img src="/photo/night.png" width="50%" height="50%">
 
