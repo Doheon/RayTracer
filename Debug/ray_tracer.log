@@ -1,0 +1,93 @@
+﻿  ray_tracer.cpp
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\make_sphere.h(78,1): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\make_sphere.h(81,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\make_sphere.h(82,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\make_sphere.h(101,49): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\make_sphere.h(101,38): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\make_sphere.h(201,50): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\make_sphere.h(201,39): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\make_sphere.h(226,50): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\make_sphere.h(226,39): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\uniformcell.h(52,9): warning C4244: '초기화 중': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\uniformcell.h(53,9): warning C4244: '초기화 중': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\uniformcell.h(54,9): warning C4244: '초기화 중': 'T'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\importobject.h(41,22): warning C4244: '인수': 'float'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\importobject.h(55,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\importobject.h(63,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\importobject.h(64,23): warning C4244: '=': '_Ty'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\importobject.h(65,27): warning C4244: '=': '_Ty'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\importobject.h(66,27): warning C4244: '=': '_Ty'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\importobject.h(72,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\importobject.h(73,35): warning C4244: '인수': 'T'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\importobject.h(73,60): warning C4244: '인수': 'T'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\importobject.h(73,85): warning C4244: '인수': 'T'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\include\importobject.h(81,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\ray_tracer\ray_tracer.cpp(187,22): warning C4244: '=': 'genType'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              genType=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\ray_tracer\ray_tracer.cpp(188,24): warning C4244: '=': 'genType'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              genType=float
+          ]
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\ray_tracer\ray_tracer.cpp(189,23): warning C4244: '=': 'genType'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              genType=float
+          ]
+  ray_tracer.vcxproj -> C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\ray_tracer\Debug\ray_tracer.exe
