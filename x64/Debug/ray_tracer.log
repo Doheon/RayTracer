@@ -1,2 +1,11 @@
-﻿  소스1.cpp
-C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\ray_tracer\소스1.cpp(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'FreeImage.h': No such file or directory
+﻿ray_tracer.obj : error LNK2019: __imp_FreeImage_Initialise 외부 기호(참조 위치: "public: virtual struct glm::vec<3,float,0> __cdecl sphere::gettexture(struct glm::vec<3,float,0>)" (?gettexture@sphere@@UEAA?AU?$vec@$02M$0A@@glm@@U23@@Z) 함수)에서 확인하지 못했습니다.
+ray_tracer.obj : error LNK2019: __imp_FreeImage_DeInitialise 외부 기호(참조 위치: "public: virtual struct glm::vec<3,float,0> __cdecl sphere::gettexture(struct glm::vec<3,float,0>)" (?gettexture@sphere@@UEAA?AU?$vec@$02M$0A@@glm@@U23@@Z) 함수)에서 확인하지 못했습니다.
+ray_tracer.obj : error LNK2019: __imp_FreeImage_Allocate 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+ray_tracer.obj : error LNK2019: __imp_FreeImage_Load 외부 기호(참조 위치: "public: __cdecl sphere::sphere(struct glm::vec<3,float,0>,float,char const *,struct glm::vec<3,float,0>,float,float,float)" (??0sphere@@QEAA@U?$vec@$02M$0A@@glm@@MPEBD0MMM@Z) 함수)에서 확인하지 못했습니다.
+ray_tracer.obj : error LNK2019: __imp_FreeImage_Save 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+ray_tracer.obj : error LNK2019: __imp_FreeImage_GetPixelColor 외부 기호(참조 위치: "public: virtual struct glm::vec<3,float,0> __cdecl sphere::gettexture(struct glm::vec<3,float,0>)" (?gettexture@sphere@@UEAA?AU?$vec@$02M$0A@@glm@@U23@@Z) 함수)에서 확인하지 못했습니다.
+ray_tracer.obj : error LNK2019: __imp_FreeImage_SetPixelColor 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+ray_tracer.obj : error LNK2019: __imp_FreeImage_GetWidth 외부 기호(참조 위치: "public: virtual struct glm::vec<3,float,0> __cdecl sphere::gettexture(struct glm::vec<3,float,0>)" (?gettexture@sphere@@UEAA?AU?$vec@$02M$0A@@glm@@U23@@Z) 함수)에서 확인하지 못했습니다.
+ray_tracer.obj : error LNK2019: __imp_FreeImage_GetHeight 외부 기호(참조 위치: "public: virtual struct glm::vec<3,float,0> __cdecl sphere::gettexture(struct glm::vec<3,float,0>)" (?gettexture@sphere@@UEAA?AU?$vec@$02M$0A@@glm@@U23@@Z) 함수)에서 확인하지 못했습니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\lib\FreeImage.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\Doheon\Desktop\Doheon\documents\Visualstudio\ray_tracer\x64\Debug\ray_tracer.exe : fatal error LNK1120: 9개의 확인할 수 없는 외부 참조입니다.

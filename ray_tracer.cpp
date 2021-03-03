@@ -1,5 +1,5 @@
 #include <iostream>
-#include <FreeImage.h>
+#include "FreeImage.h"
 #include <make_sphere.h>
 #include <uniformcell.h>
 #include <importobject.h>
